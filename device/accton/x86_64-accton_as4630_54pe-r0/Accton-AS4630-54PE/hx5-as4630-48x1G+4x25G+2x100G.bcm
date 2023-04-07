@@ -40,6 +40,7 @@ riot_overlay_ecmp_resilient_hash_size=16384
 use_all_splithorizon_groups=1
 host_as_route_disable=1
 max_vp_lags=448
+multi_hash_recurse_depth_l3=6
 
 #PHY4 U56 xx1, MDC/MDIO2, PHYADDR:0x00-0x07, 0x08
 port_phy_addr_1=0x40
